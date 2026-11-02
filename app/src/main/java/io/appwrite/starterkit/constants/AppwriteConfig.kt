@@ -15,15 +15,15 @@ object AppwriteConfig {
     /**
      * Appwrite project id.
      */
-    const val APPWRITE_PROJECT_ID = "my-project-id"
+    const val APPWRITE_PROJECT_ID = "6ae874ee001e93ee7387"
 
     /**
      * Appwrite project name.
      */
-    const val APPWRITE_PROJECT_NAME = "6ae874ee001e93ee7387"
+    const val APPWRITE_PROJECT_NAME = "My first project"
 
     /**
      * Appwrite server endpoint url.
      */
-    const val APPWRITE_PUBLIC_ENDPOINT = "https://cloud.appwrite.io/v1"
+    const val APPWRITE_PUBLIC_ENDPOINT = "https://fra.cloud.appwrite.io/v1"
 }
