@@ -20,7 +20,7 @@ object AppwriteConfig {
     /**
      * Appwrite project name.
      */
-    const val APPWRITE_PROJECT_NAME = "My project"
+    const val APPWRITE_PROJECT_NAME = "6ae874ee001e93ee7387"
 
     /**
      * Appwrite server endpoint url.
